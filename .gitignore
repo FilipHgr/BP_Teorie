@@ -9,3 +9,16 @@
 *.bcf
 *.blg
 *.run.xml
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lot
+build_log.txt
